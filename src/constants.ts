@@ -98,7 +98,7 @@ export const PRODUCTS: Product[] = [
     name: 'ハーブ・バスソルト',
     description: '死海の塩とドライハーブを贅沢に使用。リラックスタイムに。',
     price: 4800,
-    image: '/images/product1.jpg',
+    image: 'https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&q=80&w=800',
     category: 'Skincare'
   },
   {
@@ -106,7 +106,7 @@ export const PRODUCTS: Product[] = [
     name: 'バスタブレット',
     description: '死海の塩とドライハーブを贅沢に使用。リラックスタイムに。',
     price: 2400,
-    image: '/images/product2.jpg',
+    image: 'https://images.unsplash.com/photo-1570197788417-0e82375c9371?auto=format&fit=crop&q=80&w=800',
     category: 'Bodycare'
   },
   {
@@ -114,7 +114,7 @@ export const PRODUCTS: Product[] = [
     name: 'クレイ歯磨き粉',
     description: 'クレイの力でスッキリ',
     price: 1800,
-    image: '/images/product3.jpg',
+    image: 'https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9?auto=format&fit=crop&q=80&w=800',
     category: 'Wellness'
   }
 ];
